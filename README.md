@@ -5,7 +5,8 @@ wget -O /root/TheLastTunnel.bin https://github.com/amircpuir/TheLastTunnel/raw/m
 ```
 ران کردن برنامه : 
 ```bash
-sudo ./thelasttunnel
+sudo ./TheLastTunnel
+
 ```
 
 مشاهده وضعیتِ لحظه‌ای سرویس:
